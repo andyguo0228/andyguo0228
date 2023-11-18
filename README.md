@@ -1,5 +1,5 @@
 
-Hi there! I'm Andy Guo 😜
+Hi there! I'm Andy Guo 🙂
 =====
 I'm a self-taught data analyst and a medical scribe at a cancer center in New York. 
 
@@ -7,7 +7,14 @@ For most of my career, I've been working in healthcare and while I found it mean
 
 Feel free to take a look at some of the projects I've worked on and if you have any questions or would like to connect, please don't hesitate to reach out.  
 
-Some fun facts about me:
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
+![postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![azuresql](https://img.shields.io/badge/-Azure%20SQL%20Database-05122A?style=flat&logo=microsoft-azure)
+
+### Some fun facts about me:
 - Passionate about the environment and sustainability 🌎
 - Spotify 2023 most listened to artist: NewJeans 👖
 - Big fan of Sumo Citrus and waiting for them to be in season again 🍊
