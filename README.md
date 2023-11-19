@@ -9,10 +9,13 @@ Feel free to take a look at some of the projects I've worked on and if you have 
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)
-![postgres](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![azuresql](https://img.shields.io/badge/-Azure%20SQL%20Database-05122A?style=flat&logo=microsoft-azure)
+![Python](https://img.shields.io/badge/-Python-2b2f34?style=flat&logo=python)
+![Tableau](https://img.shields.io/badge/-Tableau-2b2f34?style=flat&logo=tableau)
+![postgres](https://img.shields.io/badge/-PostgreSQL-2b2f34?style=flat&logo=postgresql)
+![azuresql](https://img.shields.io/badge/-Azure%20SQL%20Database-2b2f34?style=flat&logo=microsoft-azure)
+
+### I'm currently learning/working on:
+[8 Week SQL Challenge](https://8weeksqlchallenge.com/)
 
 ### Some fun facts about me:
 - Passionate about the environment and sustainability 🌎
